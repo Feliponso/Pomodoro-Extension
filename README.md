@@ -1,10 +1,12 @@
 # Pomodoro-Extension
 ### A simple Chrome extension to help you focus! 🧐  
 
-![image](https://user-images.githubusercontent.com/28262240/101535492-7c0c3b80-3977-11eb-9b8c-04a789900bec.png)
 
 
 ![image](https://user-images.githubusercontent.com/28262240/101535084-df499e00-3976-11eb-99a4-25c2120f00dd.png)
+
+
+![image](https://user-images.githubusercontent.com/28262240/101535492-7c0c3b80-3977-11eb-9b8c-04a789900bec.png)
 
 
 ### The visual features are: 
