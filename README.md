@@ -9,3 +9,6 @@ Coded to learn about Chrome APIs
 ![image](https://user-images.githubusercontent.com/28262240/101535492-7c0c3b80-3977-11eb-9b8c-04a789900bec.png)
 
 ![image](https://user-images.githubusercontent.com/28262240/101535216-13bd5a00-3977-11eb-85d2-7e88abf1a28e.png)
+
+
+Icon was made by: https://www.flaticon.com/authors/kiranshastry
