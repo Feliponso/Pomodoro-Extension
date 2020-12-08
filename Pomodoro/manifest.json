@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "Pomodoro",
+    "description": "Timer Pomodoro",
+    "author": "Felipe Donizete Barbosa",
+    "permissions": ["alarms", "storage"],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "browser_action": {
+           "default_title": "Hello World",
+           "default_icon": "focus.png",
+           "default_popup": "index.html"
+   	 
+    }
+}

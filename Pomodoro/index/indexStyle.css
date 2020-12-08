@@ -1,0 +1,69 @@
+*{
+    background-color:  #4e5255;
+    color: white;
+}
+:root {
+    --my-start-width: 280px;
+    --my-end-width: 280px;
+    
+}
+#pbContainer{
+    background-color: #1c1d1c85;
+    width: 300px;
+    padding: 2px;
+    border-radius: 8px;
+    margin-bottom: 18px;
+    box-shadow: #1c1d1c54 1px 1px 1px 1px;
+      
+}
+#progressBar{
+    background-color: #4285F4;
+    width: 300px;
+    padding: 10px;
+    border-radius: 5px;
+    animation: progressBar 1s ease;
+    animation-fill-mode:both; 
+    animation-direction: alternate;
+    text-align: center;
+    box-sizing: content-box;
+
+}
+@keyframes progressBar {
+    0% { width: var(--my-start-width); }
+    100% { width: var(--my-end-width) }
+
+}
+.button{
+    border-radius: 5px 5px 5px 5px;
+    width: 90px;
+    height: 25px;
+    font-size: 14px;
+    font-family: sans-serif;
+    border: none;
+    box-shadow: #1c1d1c54 1px 1px 1px 1px;
+
+}
+#btnContainer{
+    display: flex;
+    justify-content: center; 
+    margin-top: 30px;
+
+}
+#btnNewAlarm{
+    background-color: #879163;
+    cursor: pointer;
+    margin-right: 35px;
+    
+}
+#btnStopAlarm{
+    background-color: #eec03a;
+    margin-left: 12px;
+    margin-right: 12px;
+    cursor: pointer;
+
+}
+#btnClearAlarm{
+    background-color: #f73149;
+    cursor: pointer;
+
+}

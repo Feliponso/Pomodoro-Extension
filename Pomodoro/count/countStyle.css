@@ -1,0 +1,52 @@
+*{
+    background-color:  #4e5255;
+    color: white;
+    font-size: 70px;
+
+}
+.inpt{
+    border-radius: 5px 5px 5px 5px;
+    background-color: #4e5255;
+    width: 80px;
+    height: 90px;
+    font-size: 71px;
+    margin-top: 10px;
+    border: none;
+    box-shadow: #4e5255 2px 2px 2px 2px;
+    outline: none;
+    
+}
+#inptContainer{
+    justify-content: center;
+    display: flex;
+    
+}
+#divBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+    margin-top: 7px;
+
+}
+.button{
+    background-color:   #b6846b;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 16px;
+    font-family: sans-serif;
+    width: 60px;
+    height: 27x;
+    border: none;
+    
+}
+#btnStart{
+    background-color: #879163;
+    text-align: center;
+    padding: 2px;
+    float: left;
+    margin-top: 15px;
+    margin-bottom: 6px;
+    cursor: pointer;
+    box-shadow: #4e5255 3px 3px 3px 3px;
+
+}
