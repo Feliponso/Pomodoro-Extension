@@ -1,5 +1,7 @@
 # Pomodoro-Extension
 A simple Chrome extension to help you focus! 🧐 
+
+
 Coded to learn about Chrome APIs
 
 ![image](https://user-images.githubusercontent.com/28262240/101535084-df499e00-3976-11eb-99a4-25c2120f00dd.png)
